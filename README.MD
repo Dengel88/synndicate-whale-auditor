@@ -2,7 +2,7 @@
 **An Autonomous On-Chain Security & Trading Agent powered by Gemini 3.1 Pro and Trust Wallet Agent Kit (TWAK).**
 
 Built for the **BNB Chain Hackathon (Track 1)**.
-
+🎥 **Demo Video:** https://youtu.be/wEYK2YSTaQE
 SyNNdicate is a highly performant, serverless-ready Python backend designed to track Smart Money ("Whales") on the Binance Smart Chain (BSC). Instead of blindly copy-trading, SyNNdicate introduces a rigorous **AI-Auditor layer**, ensuring that every copied trade is safe from honeypots, malicious minting, and hidden taxes.
 
 ## 🧠 Agent Architecture
@@ -34,5 +34,5 @@ The system is composed of 3 core modules operating in a continuous 24/7 pipeline
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/synndicate-whale.git
+git clone https://github.com/dengel88/synndicate-whale.git
 cd synndicate-whale
